@@ -38,7 +38,7 @@ Atualmente aprimorando minhas habilidades com **HTML**, **CSS** e **JavaScript**
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/luiz-victor-santos-assunção-bb10a7348)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-victor-santos-assun%C3%A7%C3%A3o-bb10a7348/)
 )
 - 📧 **luizfire40@gmail.com**
 

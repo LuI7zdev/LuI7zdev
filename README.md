@@ -1,7 +1,7 @@
 ## Olá sou Luiz Victor, progamador Front-end!
 
 💻 Desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e com ótima experiência de usuário.  
-Atualmente aprimorando minhas habilidades com **HTML**, **CSS** e **JavaScript**.  
+Atualmente aprendendo novas tecnologias e desenvolvendo novas habilidades com **HTML**, **CSS** e **JavaScript**.  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

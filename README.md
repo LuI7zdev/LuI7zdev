@@ -11,21 +11,16 @@ Atualmente aprimorando minhas habilidades com **HTML**, **CSS** e **JavaScript**
 </div>
 
 ---
+![LuI7zdev's Stats](https://github-readme-stats.vercel.app/api?username=LuI7zdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![LuI7zdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuI7zdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+---
 
 🌱 O que estou estudando
 - Aprimorando projetos front-end com **design responsivo**
 - Boas práticas de **UI/UX**
 - Futuramente: frameworks como **React** e **TailwindCSS**
-
----
-
- ## 📊 GitHub Stats
-
-<div align="center">
-  
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuI7zdevGitHub&show_icons=true&theme=tokyonight)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuI7zdevGitHub&layout=compact&theme=tokyonight)
 
 ---
 

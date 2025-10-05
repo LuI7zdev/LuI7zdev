@@ -20,7 +20,7 @@ Atualmente aprendendo novas tecnologias e desenvolvendo novas habilidades com **
 🌱 O que estou estudando
 - Aprimorando projetos front-end com **design responsivo**
 - Boas práticas de **UI/UX**
-- Futuramente: frameworks como **React** e **TailwindCSS**
+- frameworks como **React** e **TailwindCSS**
 
 ---
 

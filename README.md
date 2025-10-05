@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luiz Assunção  
 
-<!--
-**LuI7zdev/LuI7zdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e com ótima experiência de usuário.  
+Atualmente aprimorando minhas habilidades com **HTML**, **CSS** e **JavaScript**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript logo" />
+
+</div>
+
+---
+
+## 🌱 O que estou estudando
+- Aprimorando projetos front-end com **design responsivo**
+- Boas práticas de **UI/UX**
+- Futuramente: frameworks como **React** e **TailwindCSS**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- 📧 **seuemail@email.com**
+- 🌍 [Portfólio](https://seusite.com)
+
+---
+
+✨ _"Transformando ideias em código e código em experiências incríveis."_  

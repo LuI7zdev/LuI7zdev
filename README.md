@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Luiz Assunção  
+# 👋 Olá! Eu sou o Luiz
 
 💻 Desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e com ótima experiência de usuário.  
 Atualmente aprimorando minhas habilidades com **HTML**, **CSS** e **JavaScript**.  
@@ -38,9 +38,9 @@ Atualmente aprimorando minhas habilidades com **HTML**, **CSS** e **JavaScript**
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- 📧 **seuemail@email.com**
-- 🌍 [Portfólio](https://seusite.com)
+- 💼 [LinkedIn](www.linkedin.com/in/luiz-victor-santos-assunção-bb10a7348)
+)
+- 📧 **luizfire40@gmail.com**
 
 ---
 

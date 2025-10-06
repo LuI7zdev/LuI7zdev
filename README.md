@@ -1,6 +1,6 @@
 ## Olá sou Luiz Victor, programador Front-end!
 
-💻 Desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e com ótima experiência de usuário.  
+💻 Desenvolvedor Front-End gosto de criar interfaces modernas, responsivas e com ótima experiência de usuário.  
 Atualmente aprendendo novas tecnologias e desenvolvendo novas habilidades com **HTML**, **CSS** e **JavaScript**.  
 
 <div style="display: inline_block"><br>

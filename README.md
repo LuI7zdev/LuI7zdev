@@ -8,7 +8,8 @@ Atualmente aprendendo novas tecnologias e desenvolvendo novas habilidades com **
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="nodejs" height="30" width="40" src="https://logospng.org/download/node-js/logo-node-js-256.png">
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/367dafac-79b9-47c4-bad4-52a07cf3a9a1" />
+
 </div>
 
 ---

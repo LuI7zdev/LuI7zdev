@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Codando em:</h2>
 
 ###
 
@@ -40,7 +40,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/LuI7zdev/LuI7zdev/output/snake.svg" alt="Snake animation" />
-
 ###

@@ -30,7 +30,3 @@
 </div>
 
 ###
-
-<img data-importer="image" align="right" height="150" src=""  />
-
-###

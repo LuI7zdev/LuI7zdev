@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack Júnior** em busca da primeira oportunidade na área.
 
-Gosto de transformar problemas reais em software simples e útil. Atualmente estou aprofundando meus conhecimentos em JavaScript e começando a estudar React.
+Atualmente estou aprofundando meus conhecimentos em JavaScript e começando a estudar React.
 
 ---
 
